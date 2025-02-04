@@ -121,7 +121,6 @@ class HomeController extends GetxController {
         }
       }
     } catch (e) {
-      print('Search Failed: $e');
     } finally {
       isLoading.value = false;
     }
