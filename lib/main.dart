@@ -4,7 +4,6 @@ import 'package:trenord/screens/main_screen.dart';
 import 'package:trenord/theme/app_theme.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:trenord/controllers/location_controller.dart';
 import 'package:trenord/controllers/home_controller.dart';
 import 'package:trenord/controllers/main_screen_controller.dart';

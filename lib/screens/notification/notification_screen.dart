@@ -140,7 +140,7 @@ class NotificationScreen extends StatelessWidget {
                                 ),
                                 const SizedBox(height: 4),
                                 Text(
-                                  'Train No.: ${latestJourney.trainNumber}',
+                                  'Train No. ${latestJourney.trainNumber}',
                                   style: TextStyle(
                                     fontSize: 14,
                                     color: Colors.grey[600],
