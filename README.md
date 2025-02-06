@@ -1,6 +1,6 @@
 # Trenord_plus
 
-This is the repository for the projects of the DESIGN AND IMPLEMENTATION OF MOBILE APPLICATIONS(DIMA)[2024-25] course held at Polimi.
+This is the repository for the project of DESIGN AND IMPLEMENTATION OF MOBILE APPLICATIONS(DIMA)[2024-25] course held at Polimi.
 
 ⚠️ The project has no relation to the real-world  **Trenord**. It is only intended for learning purposes and as an attempt to explore application scenarios for some new features.
 
